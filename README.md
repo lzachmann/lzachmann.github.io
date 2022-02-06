@@ -1,3 +1,3 @@
 # lzachmann.github.io
 
-https://github.com/lzachmann/lzachmann.github.io
+https://username.github.io
